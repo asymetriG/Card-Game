@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1673779758 source:c:\users\lenovo\desktop\af\cdosyalari\card game\main.c
-	<stdio.h>
-	<stdlib.h>
-	<time.h>
-	<windows.h>
-
