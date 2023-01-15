@@ -147,7 +147,7 @@ int main()
 
         if(opened_card_count==36) {
 
-            printf("\nYou have won the game!!\n");
+            printf("\nYou have won the game!!!\n");
             printf("\nHere is the table:\n\n");
             print_table(table);
 
